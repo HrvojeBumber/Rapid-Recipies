@@ -1,0 +1,12 @@
+﻿.navbar-default {
+    background-image:none;
+    background-color:deepskyblue;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color:royalblue;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color:darkblue;
+}
